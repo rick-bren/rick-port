@@ -1,6 +1,6 @@
 import { GiHidden } from "react-icons/gi";
 import me from "../assets/ken10 (1) (2).png";
-import resume from "../assets/rires.pdf";
+import resume from "../assets/rickportfolio.pdf";
 import { motion } from "framer-motion";
 
 const container = {
